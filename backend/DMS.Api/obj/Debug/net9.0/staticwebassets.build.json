@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "X51W49+0UiylKQbboxulJ1TE+jUPkie/SUVOW9En7Yw=",
+  "Source": "DMS.Api",
+  "BasePath": "_content/DMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DMS.Api\\wwwroot",
+      "Source": "DMS.Api",
+      "ContentRoot": "D:\\MyFiles\\DMS\\backend\\DMS.Api\\wwwroot\\",
+      "BasePath": "_content/DMS.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

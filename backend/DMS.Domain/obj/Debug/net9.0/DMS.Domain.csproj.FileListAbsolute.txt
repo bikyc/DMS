@@ -1,0 +1,14 @@
+D:\MyFiles\DMS\backend\DMS.Domain\bin\Debug\net9.0\DMS.Domain.deps.json
+D:\MyFiles\DMS\backend\DMS.Domain\bin\Debug\net9.0\DMS.Domain.runtimeconfig.json
+D:\MyFiles\DMS\backend\DMS.Domain\bin\Debug\net9.0\DMS.Domain.dll
+D:\MyFiles\DMS\backend\DMS.Domain\bin\Debug\net9.0\DMS.Domain.pdb
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.csproj.AssemblyReference.cache
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.AssemblyInfoInputs.cache
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.AssemblyInfo.cs
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.csproj.CoreCompileInputs.cache
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.dll
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\refint\DMS.Domain.dll
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.pdb
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\DMS.Domain.genruntimeconfig.cache
+D:\MyFiles\DMS\backend\DMS.Domain\obj\Debug\net9.0\ref\DMS.Domain.dll

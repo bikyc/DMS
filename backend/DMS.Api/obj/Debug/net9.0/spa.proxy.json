@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"RedirectUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "D:\\MyFiles\\DMS\\backend\\DMS.Api",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

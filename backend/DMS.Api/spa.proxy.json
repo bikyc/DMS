@@ -1,0 +1,6 @@
+{
+  "Server": "http://localhost:4200",
+  "LaunchCommand": "npm start",
+  "WorkingDirectory": "../../frontend/dms-web",
+  "MaxTimeoutInSeconds": "120"
+}

@@ -1,0 +1,17 @@
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Application.deps.json
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Application.runtimeconfig.json
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Application.dll
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Application.pdb
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Domain.dll
+D:\MyFiles\DMS\backend\DMS.Application\bin\Debug\net9.0\DMS.Domain.pdb
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.csproj.AssemblyReference.cache
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.AssemblyInfoInputs.cache
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.AssemblyInfo.cs
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.csproj.CoreCompileInputs.cache
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Appl.46E95E34.Up2Date
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.dll
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\refint\DMS.Application.dll
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.pdb
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\DMS.Application.genruntimeconfig.cache
+D:\MyFiles\DMS\backend\DMS.Application\obj\Debug\net9.0\ref\DMS.Application.dll
